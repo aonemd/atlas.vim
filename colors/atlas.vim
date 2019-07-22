@@ -53,6 +53,8 @@ hi SpellCap guifg=#e6e6e6 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellRare guifg=#e6e6e6 ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#c6c6c6 ctermfg=242 guibg=#323232 ctermbg=236 gui=Bold cterm=Bold
 hi StatusLineNC guifg=#4e4e4e ctermfg=239 guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
+hi StatusLineTerm guifg=#c6c6c6 ctermfg=242 guibg=#323232 ctermbg=236 gui=Bold cterm=Bold
+hi StatusLineTermNC guifg=#4e4e4e ctermfg=239 guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi TabLine guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineSel guifg=#e6e6e6 ctermfg=185 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
