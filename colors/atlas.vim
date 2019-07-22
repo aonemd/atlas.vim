@@ -257,3 +257,10 @@ let g:terminal_color_12 = "#e6e6e6"
 let g:terminal_color_13 = "#e6e6e6"
 let g:terminal_color_14 = "#e6e6e6"
 let g:terminal_color_15 = "#ffffff"
+
+let g:terminal_ansi_colors = [
+      \ "#1b1918", "#f22c40", "#5ab738", "#d5911a",
+      \ "#407ee7", "#6666ea", "#00ad9c", "#a8a19f",
+      \ "#766e6b", "#f22c40", "#5ab738", "#d78700",
+      \ "#407ee7", "#6666ea", "#00ad9c", "#f1efee"
+      \]
